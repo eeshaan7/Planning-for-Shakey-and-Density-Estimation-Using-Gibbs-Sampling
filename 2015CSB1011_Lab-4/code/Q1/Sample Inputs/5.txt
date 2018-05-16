@@ -1,0 +1,6 @@
+3 3
+g
+initial
+(on shakey b3) (at b3 r2) (at shakey r2) (at b2 r1) (at b1 r1) 
+goal
+(switchon l1) (switchon l2)

@@ -1,0 +1,6 @@
+2 3
+g
+initial
+(on shakey floor) (at b3 r1) (at shakey r2) (at b2 r2) (at b1 r2) 
+goal
+(at b1 r1) (at b2 r1) (at b3 r2) (switchon l2) (switchon l1)

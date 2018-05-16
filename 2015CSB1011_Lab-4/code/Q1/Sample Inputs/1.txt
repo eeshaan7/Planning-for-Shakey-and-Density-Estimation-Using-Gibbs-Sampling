@@ -1,0 +1,6 @@
+2 1
+f
+initial
+(on shakey floor) (at b1 r1) (at shakey r1) (switchon l1)
+goal
+(on shakey floor) (at b1 r1) (switchon l2)

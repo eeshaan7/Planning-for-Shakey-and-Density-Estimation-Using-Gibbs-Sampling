@@ -1,0 +1,6 @@
+5
+(turnon l2 r2)
+(climbdown b3)
+(push b3 r2 r3)
+(go r3 r1)
+(push b1 r1 r2)

@@ -1,0 +1,10 @@
+9
+(go r3 r4)
+(climbup b1 r4)
+(turnon l4 r4)
+(climbdown b1)
+(go r4 r2)
+(climbup b2 r2)
+(turnon l2 r2)
+(climbdown b2)
+(go r2 r3)

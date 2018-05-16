@@ -1,0 +1,12 @@
+11
+(climbup b1 r2)
+(turnon l2 r2)
+(climbdown b1)
+(go r2 r1)
+(climbup b3 r1)
+(turnon l1 r1)
+(climbdown b3)
+(push b3 r1 r2)
+(push b2 r2 r1)
+(go r1 r2)
+(push b1 r2 r1)

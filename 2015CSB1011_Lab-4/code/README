@@ -1,0 +1,29 @@
+===================
+Lab 4
+CSL 302
+Eeshaan Sharma 
+2015CSB1011
+Subhashish Sharma
+2014CSB1036
+===================
+
+Question 1 - 
+
+Compiling and running the program (in code/Q1/Q1.py)
+====================================================
+1. Go to folder code/Q1 in terminal.
+2. python Q1.py <input_file> 
+
+This will generate the solution in an output file
+
+Question 2 - 
+
+Compiling and running the program (in code/Q2/Q2.py)
+====================================================
+1. Go to folder code/Q2 in terminal.
+2. python Q2.py <input_file>
+
+This will generate 2 text files
+
+samples.txt - The Gibbs Samples generated
+probs.txt   - Containing ground truth and gibbs probability for each sample 
